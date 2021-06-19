@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @engamir1
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning flutter & Javascript ... 
 - 💞️ I’m looking to collaborate on dart & flutter
 - 📫 How to reach me Email: engmohamed.amir101@gmail.com
 
